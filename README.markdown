@@ -1,4 +1,4 @@
-slick
+slick - with support for passive listeners :-)
 -------
 
 [1]: <https://github.com/kenwheeler/slick>
