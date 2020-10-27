@@ -7,6 +7,10 @@ slick - with support for passive listeners :-)
 
 [http://kenwheeler.github.io/slick](http://kenwheeler.github.io/slick/)
 
+#### Purpose
+
+Make Google Lightouse happy by fixing the root cause of the "add support for passive listeners" issue. Add SEO value. Bump up colorful and meaningless marketing charts for management with "more pagespeed" (Raises the Lighthouse score by 7 to 8 points actually).
+
 #### Install
 
 ```
