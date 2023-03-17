@@ -2840,7 +2840,7 @@
 
         if (event.originalEvent !== undefined && _.touchObject.swipeLength > 4) {
             _.swiping = true;
-            event.preventDefault();
+//             event.preventDefault();
         }
 
         positionOffset = (_.options.rtl === false ? 1 : -1) * (_.touchObject.curX > _.touchObject.startX ? 1 : -1);
